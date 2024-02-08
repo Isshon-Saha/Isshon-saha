@@ -1,7 +1,7 @@
 Hi 👋 My name is Isshon Saha
 ============================
 
-I'm a web developer
+I'm a web developer who likes to work with various technologies. Currently I am mainly working with NextJs/React.
 -------------------
 
 *   🖥️  See my portfolio at [My page](http://y.gy/Isshon)
